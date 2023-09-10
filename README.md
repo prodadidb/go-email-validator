@@ -169,4 +169,4 @@ For example:
 
 ## Base on
 
-* [github.com/prodadidb/go-email-validator@b8b9e6a0552eea35f801e2fd72a50cf0f1705b5e](https://github.com/prodadidb/go-email-validator/tree/b8b9e6a0552eea35f801e2fd72a50cf0f1705b5e)
+* [github.com/go-email-validator/go-email-validator@b8b9e6a0552eea35f801e2fd72a50cf0f1705b5e](https://github.com/go-email-validator/go-email-validator/tree/b8b9e6a0552eea35f801e2fd72a50cf0f1705b5e)
