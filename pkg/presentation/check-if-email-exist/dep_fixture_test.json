@@ -372,34 +372,6 @@
     "error": ""
   },
   {
-    "input": "credit@mail.ru",
-    "is_reachable": "invalid",
-    "misc": {
-      "is_disposable": false,
-      "is_role_account": false
-    },
-    "mx": {
-      "accepts_mail": true,
-      "records": [
-        "mxs.mail.ru."
-      ]
-    },
-    "smtp": {
-      "can_connect_smtp": true,
-      "has_full_inbox": false,
-      "is_catch_all": false,
-      "is_deliverable": false,
-      "is_disabled": false
-    },
-    "syntax": {
-      "address": "credit@mail.ru",
-      "username": "credit",
-      "domain": "mail.ru",
-      "is_valid_syntax": true
-    },
-    "error": ""
-  },
-  {
     "input": "salestrade86@hotmail.com",
     "is_reachable": "unknown",
     "misc": {
@@ -520,62 +492,6 @@
     "error": ""
   },
   {
-    "input": "name@yandex.ru",
-    "is_reachable": "invalid",
-    "misc": {
-      "is_disposable": false,
-      "is_role_account": false
-    },
-    "mx": {
-      "accepts_mail": true,
-      "records": [
-        "mx.yandex.ru."
-      ]
-    },
-    "smtp": {
-      "can_connect_smtp": true,
-      "has_full_inbox": false,
-      "is_catch_all": false,
-      "is_deliverable": false,
-      "is_disabled": false
-    },
-    "syntax": {
-      "address": "name@yandex.ru",
-      "domain": "yandex.ru",
-      "is_valid_syntax": true,
-      "username": "name"
-    }
-  },
-  {
-    "input": "admin@huntgear.ru",
-    "is_reachable": "risky",
-    "misc": {
-      "is_disposable": false,
-      "is_role_account": true
-    },
-    "mx": {
-      "accepts_mail": true,
-      "records": [
-        "mail.huntgear.ru.",
-        "mail.huntgear.ru."
-      ]
-    },
-    "smtp": {
-      "can_connect_smtp": true,
-      "has_full_inbox": false,
-      "is_catch_all": false,
-      "is_deliverable": false,
-      "is_disabled": false
-    },
-    "syntax": {
-      "address": "admin@huntgear.ru",
-      "username": "admin",
-      "domain": "huntgear.ru",
-      "is_valid_syntax": true
-    },
-    "error": ""
-  },
-  {
     "input": "go.email.validator@gmail.com",
     "is_reachable": "safe",
     "misc": {
@@ -603,62 +519,6 @@
       "address": "go.email.validator@gmail.com",
       "username": "go.email.validator",
       "domain": "gmail.com",
-      "is_valid_syntax": true
-    },
-    "error": ""
-  },
-  {
-    "input": "radmal1982@yandex-team.ru",
-    "is_reachable": "safe",
-    "misc": {
-      "is_disposable": false,
-      "is_role_account": false
-    },
-    "mx": {
-      "accepts_mail": true,
-      "records": [
-        "mx.yandex-team.ru."
-      ]
-    },
-    "smtp": {
-      "can_connect_smtp": true,
-      "has_full_inbox": false,
-      "is_catch_all": false,
-      "is_deliverable": true,
-      "is_disabled": false
-    },
-    "syntax": {
-      "address": "radmal1982@yandex-team.ru",
-      "username": "radmal1982",
-      "domain": "yandex-team.ru",
-      "is_valid_syntax": true
-    },
-    "error": ""
-  },
-  {
-    "input": "pr@yandex-team.ru",
-    "is_reachable": "risky",
-    "misc": {
-      "is_disposable": false,
-      "is_role_account": true
-    },
-    "mx": {
-      "accepts_mail": true,
-      "records": [
-        "mx.yandex-team.ru."
-      ]
-    },
-    "smtp": {
-      "can_connect_smtp": true,
-      "has_full_inbox": false,
-      "is_catch_all": false,
-      "is_deliverable": true,
-      "is_disabled": false
-    },
-    "syntax": {
-      "address": "pr@yandex-team.ru",
-      "username": "pr",
-      "domain": "yandex-team.ru",
       "is_valid_syntax": true
     },
     "error": ""

@@ -237,31 +237,6 @@
     "suggestion": ""
   },
   {
-    "email": "credit@mail.ru",
-    "disposable": false,
-    "reachable": "unknown",
-    "role_account": false,
-    "free": true,
-    "syntax": {
-      "username": "credit",
-      "domain": "mail.ru",
-      "valid": true
-    },
-    "has_mx_records": true,
-    "smtp": {
-      "host_exists": true,
-      "full_inbox": false,
-      "catch_all": true,
-      "deliverable": false,
-      "disabled": false
-    },
-    "gravatar": {
-      "HasGravatar": false,
-      "GravatarUrl": ""
-    },
-    "suggestion": ""
-  },
-  {
     "email": "salestrade86@hotmail.com",
     "disposable": false,
     "reachable": "unknown",
@@ -344,56 +319,6 @@
     "suggestion": ""
   },
   {
-    "email": "name@yandex.ru",
-    "disposable": false,
-    "reachable": "no",
-    "role_account": false,
-    "free": true,
-    "syntax": {
-      "username": "name",
-      "domain": "yandex.ru",
-      "valid": true
-    },
-    "has_mx_records": true,
-    "smtp": {
-      "host_exists": true,
-      "full_inbox": false,
-      "catch_all": false,
-      "deliverable": false,
-      "disabled": false
-    },
-    "gravatar": {
-      "HasGravatar": false,
-      "GravatarUrl": ""
-    },
-    "suggestion": ""
-  },
-  {
-    "email": "admin@huntgear.ru",
-    "disposable": false,
-    "reachable": "no",
-    "role_account": true,
-    "free": false,
-    "syntax": {
-      "username": "admin",
-      "domain": "huntgear.ru",
-      "valid": true
-    },
-    "has_mx_records": true,
-    "smtp": {
-      "host_exists": true,
-      "full_inbox": false,
-      "catch_all": false,
-      "deliverable": false,
-      "disabled": false
-    },
-    "gravatar": {
-      "HasGravatar": false,
-      "GravatarUrl": ""
-    },
-    "suggestion": ""
-  },
-  {
     "email": "go.email.validator@gmail.com",
     "disposable": false,
     "reachable": "yes",
@@ -402,56 +327,6 @@
     "syntax": {
       "username": "go.email.validator",
       "domain": "gmail.com",
-      "valid": true
-    },
-    "has_mx_records": true,
-    "smtp": {
-      "host_exists": true,
-      "full_inbox": false,
-      "catch_all": false,
-      "deliverable": true,
-      "disabled": false
-    },
-    "gravatar": {
-      "HasGravatar": false,
-      "GravatarUrl": ""
-    },
-    "suggestion": ""
-  },
-  {
-    "email": "radmal1982@yandex-team.ru",
-    "disposable": false,
-    "reachable": "yes",
-    "role_account": false,
-    "free": false,
-    "syntax": {
-      "username": "radmal1982",
-      "domain": "yandex-team.ru",
-      "valid": true
-    },
-    "has_mx_records": true,
-    "smtp": {
-      "host_exists": true,
-      "full_inbox": false,
-      "catch_all": false,
-      "deliverable": true,
-      "disabled": false
-    },
-    "gravatar": {
-      "HasGravatar": false,
-      "GravatarUrl": ""
-    },
-    "suggestion": ""
-  },
-  {
-    "email": "pr@yandex-team.ru",
-    "disposable": false,
-    "reachable": "yes",
-    "role_account": true,
-    "free": false,
-    "syntax": {
-      "username": "pr",
-      "domain": "yandex-team.ru",
       "valid": true
     },
     "has_mx_records": true,

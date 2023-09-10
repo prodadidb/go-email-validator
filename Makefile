@@ -18,4 +18,4 @@ lint: #gen
 
 .PHONY: test
 test: tools lint
-	go test ./...
+	go test  ./... #-functional=true -func=true

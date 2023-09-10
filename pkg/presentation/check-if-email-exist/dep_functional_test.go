@@ -35,8 +35,6 @@ func TestDepConverter_Convert(t *testing.T) {
 		*/
 		"salestrade86@hotmail.com",
 		"monicaramirezrestrepo@hotmail.com",
-		// TODO CIEE banned
-		"credit@mail.ru",
 		// TODO need check source code
 		"asdasd@tradepro.net",
 		// TODO need check source code

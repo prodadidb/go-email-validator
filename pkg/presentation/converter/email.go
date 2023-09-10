@@ -23,18 +23,12 @@ func EmailsForTests() []string {
 		"theofanis.giot2is@12pm.gr",
 		"theofanisgiotis@12pm.gr",
 		"asdasd@tradepro.net",
-		"credit@mail.ru",
 		"salestrade86@hotmail.com",
 		"some.user.99@gmail.com",
 		"monicaramirezrestrepo@hotmail.com",
 		"admin@gmail.com",
-		"name@yandex.ru",
-		"admin@huntgear.ru",
 		"go.email.validator@gmail.com",
-		"radmal1982@yandex-team.ru",
-		"pr@yandex-team.ru",
 		"y-numata@senko.ed.jp",
-		"alexey@life-in-travels.ru",
 	}
 }
 

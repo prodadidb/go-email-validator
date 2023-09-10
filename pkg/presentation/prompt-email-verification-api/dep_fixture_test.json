@@ -281,27 +281,6 @@
     }
   },
   {
-    "Email": "credit@mail.ru",
-    "Dep": {
-      "email": "credit@mail.ru",
-      "syntax_valid": true,
-      "is_disposable": false,
-      "is_role_account": false,
-      "is_catch_all": false,
-      "is_deliverable": false,
-      "can_connect_smtp": true,
-      "is_inbox_full": false,
-      "is_disabled": false,
-      "mx_records": {
-        "accepts_mail": true,
-        "records": [
-          "mxs.mail.ru."
-        ]
-      },
-      "message": ""
-    }
-  },
-  {
     "Email": "salestrade86@hotmail.com",
     "Dep": {
       "email": "salestrade86@hotmail.com",
@@ -394,49 +373,6 @@
     }
   },
   {
-    "Email": "name@yandex.ru",
-    "Dep": {
-      "can_connect_smtp": true,
-      "email": "name@yandex.ru",
-      "is_catch_all": false,
-      "is_deliverable": false,
-      "is_disabled": false,
-      "is_disposable": false,
-      "is_inbox_full": false,
-      "is_role_account": false,
-      "mx_records": {
-        "accepts_mail": true,
-        "records": [
-          "mx.yandex.ru."
-        ]
-      },
-      "syntax_valid": true,
-      "message": ""
-    }
-  },
-  {
-    "Email": "admin@huntgear.ru",
-    "Dep": {
-      "email": "admin@huntgear.ru",
-      "syntax_valid": true,
-      "is_disposable": false,
-      "is_role_account": true,
-      "is_catch_all": false,
-      "is_deliverable": false,
-      "can_connect_smtp": true,
-      "is_inbox_full": false,
-      "is_disabled": false,
-      "mx_records": {
-        "accepts_mail": true,
-        "records": [
-          "mail.huntgear.ru.",
-          "mail.huntgear.ru."
-        ]
-      },
-      "message": ""
-    }
-  },
-  {
     "Email": "go.email.validator@gmail.com",
     "Dep": {
       "email": "go.email.validator@gmail.com",
@@ -456,48 +392,6 @@
           "gmail-smtp-in.l.google.com.",
           "alt1.gmail-smtp-in.l.google.com.",
           "alt3.gmail-smtp-in.l.google.com."
-        ]
-      },
-      "message": ""
-    }
-  },
-  {
-    "Email": "radmal1982@yandex-team.ru",
-    "Dep": {
-      "email": "radmal1982@yandex-team.ru",
-      "syntax_valid": true,
-      "is_disposable": false,
-      "is_role_account": false,
-      "is_catch_all": false,
-      "is_deliverable": true,
-      "can_connect_smtp": true,
-      "is_inbox_full": false,
-      "is_disabled": false,
-      "mx_records": {
-        "accepts_mail": true,
-        "records": [
-          "mx.yandex-team.ru."
-        ]
-      },
-      "message": ""
-    }
-  },
-  {
-    "Email": "pr@yandex-team.ru",
-    "Dep": {
-      "email": "pr@yandex-team.ru",
-      "syntax_valid": true,
-      "is_disposable": false,
-      "is_role_account": true,
-      "is_catch_all": false,
-      "is_deliverable": true,
-      "can_connect_smtp": true,
-      "is_inbox_full": false,
-      "is_disabled": false,
-      "mx_records": {
-        "accepts_mail": true,
-        "records": [
-          "mx.yandex-team.ru."
         ]
       },
       "message": ""

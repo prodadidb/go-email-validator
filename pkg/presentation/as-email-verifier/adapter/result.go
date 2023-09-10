@@ -33,7 +33,7 @@ func ResultAdaption(presentation asemailverifier.DepPresentation) emailverifier.
 		Reachable:   presentation.Reachable.String(),
 		RoleAccount: presentation.RoleAccount,
 		Free:        presentation.Free,
-		Syntax: &emailverifier.Syntax{
+		Syntax: emailverifier.Syntax{
 			Username: presentation.Syntax.Username,
 			Domain:   presentation.Syntax.Domain,
 			Valid:    presentation.Syntax.Valid,
