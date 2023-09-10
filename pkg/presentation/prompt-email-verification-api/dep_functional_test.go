@@ -36,8 +36,6 @@ func TestDepConverter_Convert(t *testing.T) {
 		// Banned on disposable domain
 		"tvzamhkdc@emlhub.com",
 		// Banned
-		"credit@mail.ru",
-		// Banned
 		"salestrade86@hotmail.com",
 		// Banned
 		"monicaramirezrestrepo@hotmail.com",

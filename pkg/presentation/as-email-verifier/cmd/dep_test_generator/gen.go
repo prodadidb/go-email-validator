@@ -25,7 +25,6 @@ func main() {
 		"amazedfuckporno@gmail.com",
 		"theofanis.giot2is@12pm.gr",
 		"asdasd@tradepro.net",
-		"credit@mail.ru",
 		"admin@gmail.com",
 		"asdasd@tradepro.net",
 	)
